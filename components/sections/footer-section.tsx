@@ -41,7 +41,7 @@ export function FooterSection() {
           {/* Logo */}
           <div className="mb-4">
             <Image
-              src="/images/velmora-logo.png"
+              src="/images/logo.png"
               alt="VELMORA Natural Skincare"
               width={160}
               height={100}

@@ -18,7 +18,7 @@ export function HeroSection() {
           {/* Logo */}
           <div className="mb-8">
             <Image
-              src="/images/velmora-logo.png"
+              src="/images/logo.png"
               alt="VELMORA Natural Skincare"
               width={360}
               height={220}
